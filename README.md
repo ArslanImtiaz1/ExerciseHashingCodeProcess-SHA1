@@ -1,0 +1,1 @@
+# ExerciseHashingCodeProcess-SHA1
